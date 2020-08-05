@@ -1,3 +1,4 @@
+install.packages("ggthemes")
 #Code: Adding themes
 # theme used for graphs in the textbook and course
 library(dslabs)
